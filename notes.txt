@@ -1,3 +1,87 @@
+
+data journo 101
+
+A. What is data journo? 
+
+a. Data journalism started way before you think it did. 
+
+cholera map. 
+
+b. What a data-driven story look like. 
+stories
+app
+graphics
+
+
+c. How to lie with data ? (Design rule)
+
+statistics
+design 
+
+d. learn to critique data viz
+
+----
+Hands on 
+----
+
+##how to get data? 
+1. website
+2. pdf to 
+
+
+##basic google 
+
+1. google spreadsheet
+
++-x/
+make a chart 
+pivot table 
+import html 
+
+2. google map 
+
+3. google table to html 
+https://jsvine.github.io/google-table-converter/ 
+
+
+“本省人考本省名校难、北京上海人考北大清华复旦” 
+
+
+##Going further
+
+1. twitter 
+2. see the masters' works
+3. 
+
+
+Tools
+
+1. https://plotdb.com/ 
+
+
+
+https://ig.ft.com/sites/the-best-f1-drivers-ever/
+
+
+##FT's way of doing data visualization 
+
+What Makes a Visualization Memorable? 
+http://cvcl.mit.edu/papers/Borkin_etal_MemorableVisualization_TVCG2013.pdf
+
+drawing conclusion from data 
+https://source.opennews.org/en-US/learning/statistically-sound-data-journalism/
+
+http://www.storytellingwithdata.com/blog/2014/06/alternatives-to-pies
+
+
+
+
+
+
+
+
+
+
 Thank you so much for having me on this meeting. 
 
 My name is Silva, 
