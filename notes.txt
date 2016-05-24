@@ -1,0 +1,46 @@
+Thank you so much for having me on this meeting. 
+
+My name is Silva, 
+
+I'll take five minutes to introduce myself the works at FTC. I'll appreciate your questions and feedback.
+
+So I'm currently holding the position of data editor at FTC, based in Beijing. I produce data-driven stories and report on Taiwan as well. 
+
+Most of my professional career is in Taiwan. I spent over 5 yrs convering business for Taiwan's local magazine. 
+
+
+
+
+We are a small team with limited resource. Lonely ranger. Keep rolling by yourself. 
+
+But with the help from the programmer of the product team and you, I'm able to work some interesting projects. 
+
+I've categorized my works into three parts. 
+
+#Two sessions 去找英文解釋 
+
+US ambassy 
+Red alert policy
+
+Beijing issued First red alert on PM 2.5 last October. According to the officals, once the red alert issued, cars, cargos are resticted on the road. So we dig into the US amabassy's PM 2.5 data and see if the red alert could decrease the density of PM 2.5 
+
+Since the red alert issued in 12 hours, the density is still high. 
+
+And then we compare with the data pf previous yello alert, we found only wind could release the pm 2.5's density.  確認這句 
+
+-----
+
+Most of the graphics are sketched on d3 or google spreadsheet and move to illustrator or photoshop to create a png or jpeg file. 
+
+And on the multimedia piece, I've worked with the front-end programmer of our product team to create a one-page template. 
+
+
+on a normal story page, I cannot paste a javascript code or use iframe. 
+
+
+Our server is put in Hong kong, the connections is unstable. 
+
+fit into its framework, delay the javascript loading. 
+
+
+
