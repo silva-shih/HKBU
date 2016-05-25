@@ -1,3 +1,38 @@
+I want to try to give you a little bit of the big picture sense of journalism briefly and open up to any questions you folks have. 
+
+We're able to find stories that I don't think we are able to find a few years ago thanks to the technology
+
+Data is a tool. not different from photos, charts. 
+
+data journalism is journalism
+
+
+Section 1 Data journo 101
+
+- What is data journalism? 
+- What a data-driven story look like？(Storytelling with data)
+
+
+Section 2 Data 101
+
+- Speed data-ing (Where to find data? Where to find China' data?)
+- Data formats (png/jpeg/csv/tsv/pdf, will demonstrate how to scrap via google spreadsheet) #hands-on
+- basic operations using google spreadsheet (will leave pivot table to Jeff)
+
+Section 3 Data visualization 101
+
+- making data beautiful (basic rules. will leave the advnaced data visualization skills to Jeff. ) #hands-on
+- how to lie with data/charts
+
+
+Section 4  5 ways to keep learning
+
+- global trends
+- going further (how to learn it by yourself)
+
+
+
+
 
 data journo 101
 
@@ -73,6 +108,8 @@ https://source.opennews.org/en-US/learning/statistically-sound-data-journalism/
 
 http://www.storytellingwithdata.com/blog/2014/06/alternatives-to-pies
 
+
+http://blogs.nature.com/methagora/2013/07/data-visualization-points-of-view.html
 
 
 

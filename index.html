@@ -1,391 +1,356 @@
 <!doctype html>
 <html>
-	<head>
-		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-		<title>HKBU - Silva Shih</title>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>HKBU - Silva Shih</title>
+    <link rel="stylesheet" href="css/reveal.css">
+    <link rel="stylesheet" href="css/theme/simple.css">
+    <!-- Theme used for syntax highlighting of code -->
+    <link rel="stylesheet" href="lib/css/zenburn.css">
+    <!-- Printing and PDF exports -->
+    <script>
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.type = 'text/css';
+    link.href = window.location.search.match(/print-pdf/gi) ? 'css/print/pdf.css' : 'css/print/paper.css';
+    document.getElementsByTagName('head')[0].appendChild(link);
+    </script>
+    <style type='text/css'>
+    #ft-header {
+        height: 50px;
+        background-color: #FFF9F1;
+        width: 100%;
+        position: fixed;
+        top: 0;
+        z-index: 50;
+        overflow: hidden;
+        text-align: center;
+        border-bottom: 1px solid #cec6b9;
+        box-shadow: 0 2px 2px 0 rgba(0, 0, 0, .1);
+    }
+    
+    #ft-header a {
+        background-color: #fff9f1;
+    }
+    
+    #ft-header a>img {
+        margin-top: 13px;
+        opacity: .8;
+        transition: opacity .3s;
+    }
+    </style>
+</head>
 
-		<link rel="stylesheet" href="css/reveal.css">
-		<link rel="stylesheet" href="css/theme/simple.css">
-
-		<!-- Theme used for syntax highlighting of code -->
-		<link rel="stylesheet" href="lib/css/zenburn.css">
-
-		<!-- Printing and PDF exports -->
-		<script>
-			var link = document.createElement( 'link' );
-			link.rel = 'stylesheet';
-			link.type = 'text/css';
-			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
-			document.getElementsByTagName( 'head' )[0].appendChild( link );
-		</script>
-	</head>
-	<body>
-		<div class="reveal">
-			<div class="slides">
-				<section>
-					<h3>Data Journalism 101</h3>
-					<p><small>HKBU | May 2016 <br>
-					@silvashih
+<body>
+    <header id="ft-header" class="stickable">
+        <a href="//www.ftchinese.com/" target="_blank"><img src="//interactive.ftchinese.com/ftc-icons/svg/brand-ftc-masthead.svg" alt="FT中文网" height="20"></a>
+    </header>
+    <div class="reveal">
+        <div class="slides">
+            <section>
+                <h3>Data Journalism 101</h3>
+                <p><small>HKBU | May 2016 </small></p>
+                <p><small>@silvashih
 					</small></p>
-				</section>
+            </section>
+            <section>
+                <h3>A bit about me</h3>
+                <ul>
+                    <p>Data editor at FTChinese.com of FT based in Beijing. Making data-driven stories and reporting on Taiwan.</p>
+                </ul>
+            </section>
+            <section>
+                <h3>FT interactive</h3>
+                <ul>
+                    <img data-src="assets/FT-people.png" height="500px">
+                    <p><small>coders, designers, statisticians, map-makers.</small> </p>
+                </ul>
+            </section>
+            <section>
+                <h3>FTC team</h3>
+                <ul>
+                    <img data-src="assets/FTC-people.png" height="500px">
+                    <p><small>me, 1/2 coder</small> </p>
+                </ul>
+            </section>
+            <section>
+                <ul>
+                    <h4>In these 2 days, we will learn...</h4>
+                    <ul>
+                        <li>What is data journalism?</li>
+                        <li>What is data?</li>
+                        <li>What is data visualization?</li>
+                        <li>5 ways to keep learning by yourself.</li>
+                    </ul>
+            </section>
+            <section>
+                <h4>Section 1</h4>
+                <h3>What is data journalism? </h3>
+            </section>
+            <section>
+                <h3>Tellying stories through data.</h3>
+            </section>
+            <section>
+                <h3>Data journalism started way before you think it did. </h3>
+                </ul>
+            </section>
+            <section>
+                <img data-src="assets/cholera.jpg" height="500px">
+                <ul>
+                    <p><a href="https://www.bl.uk/learning/images/makeanimpact/publichealth/large12735.html">Mapping the 1854 London Cholera Outbreak</a></p>
+                </ul>
+            </section>
+            <section>
+                <h3>Why should we care about telling stories through data now?</h3>
+            </section>
+            <section>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/TA_tNh0LMEs" frameborder="0" allowfullscreen></iframe>
+            </section>
+            <section>
+                <h3>engage</h3>
+            </section>
+            <section>
+                <h3>"prove it to me!"</h3>
+            </section>
+            <section>
+                <img data-src="assets/local-pm2.5-2.jpg" width="600px"></a>
+            </section>
+            <section>
+                <h4>What a data-driven story look like？</h4>
+                <p>(it's not all about charts)</p>
+                </ul>
+            </section>
+            <section>
+                <ul>
+                    <li>text</li>
+                    <li>graphics</li>
+                    <li>news app</li>
+                </ul>
+                </ul>
+            </section>
+            <section>
+                <h3>break</h3>
+            </section>
+            <section>
+                <h3>Section 2: Speed data-ing </h3>
+            </section>
+            <section>
+                <h3>where can I find the data?</h3>
+            </section>
+            <section>
+                <h3>Google</h3>
+            </section>
+            <section>
+                <section id="data">
+                    <ul>
+                        <li>Google</li>
+                        <li>research org</li>
+                        <li>government</li>
+                        <li>collect it yourself</li>
+                    </ul>
+                </section>
+            </section>
+            <section>
+                <h3>Quartz</h3>
+                <img data-src="assets/xls.png" width="600px"></a>
+            </section>
+            <section>
+                <h3>data formats</h3>
+                <p>machine readable</p>
+            </section>
+            <section>
+                <h3>PDF</h3>
+                <p><a href="http://tabula.technology/" target="_blank">covert PDF to csv</a></p>
+            </section>
+            <section>
+                <h3>XLS (excel) </h3>
+                <img data-src="assets/xls.png" width="600px"></a>
+            </section>
+            <section>
+                <h3>CVS</h3>
+                <p>comma-seperated</p>
+                <img data-src="assets/csv.png" width="600px"></a>
+            </section>
+            <section>
+                <h3>TSV</h3>
+                <p>tab-seperated</p>
+                <img data-src="assets/tsv.png" width="600px"></a>
+            </section>
+            <section>
+                <h3>JSON</h3>
+                <img data-src="assets/json.png" width="350px"></a>
+            </section>
+            <section>
+                <h3>JPEG/PNG</h3>
+                <p> <img data-src="assets/jpeg.png" width="400px"></a>
+                </p>
+                <p><a href="http://www.stats.gov.cn/tjsj/ndsj/2015/indexch.htm" target="_blank">中國統計年鑑</a></p>
+            </section>
+            <section>
+                <h3>dirty work</h3>
+                <p>google spreadsheet exercise</p>
+            </section>
+            <section>
+                <h3>＋－ｘ</h3>
+                <p></p>
+            </section>
+            <section>
+                <h3>=IMPORTHTML(URL,"table/list", 1)</h3>
+            </section>
+            <section>
+                <h3>Pivot table</h3>
+            </section>
+            <section>
+                <h3>Make data beautiful</h3>
+                <a href="http://flowingdata.com/2010/07/22/7-basic-rules-for-making-charts-and-graphs">reference</a></p>
+            </section>
+            <section>
+                <h3>chart types</h3>
+                <a href="http://flowingdata.com/2010/07/22/7-basic-rules-for-making-charts-and-graphs">reference</a></p>
+            </section>
+            <section>
+                <h3>Basic Rules</h3>
+                <a href="http://flowingdata.com/2010/07/22/7-basic-rules-for-making-charts-and-graphs">reference</a></p>
+            </section>
+            <section>
+                <h3>alternative to pie chart</h3>
+            </section>
+            <section>
+                <h3>how to lie with data？</h3>
+            </section>
+            <section>
+                <img data-src="assets/chart-suggestion.jpg" width="600px"></a>
+            </section>
+            <section>
+                <ul>
+                    <li><a href="https://quartz.github.io/Chartbuilder/" target="_blank">Chartbuilder by Quartz</a>
+                </ul>
+            </section>
+            <section>
+                <h3>Trends in this business</h3>
+            </section>
+            <section>
+                <ul>
+                    <li>mobile</li>
+                    <li>less interactive</li>
+                </ul>
+            </section>
+            <section>
+                <h3>Going further</h3>
+            </section>
+            <section>
+                <h3> FTC</h3>
+                <ul>
+                    <li>50% on the site are translated from the FT.com.</li>
+                    <li>50% are editorials, Op-Eds and columns run and produced by FTC editors.</li>
+                </ul>
+            </section>
+            <section>
+                <h3>I expected my role at FTC is...</h3>
+                <img data-src="assets/panda-cool.gif" height="400px">
+            </section>
+            <section>
+                <h3>...but it's more close to</h3>
+                <img data-src="assets/Panda-Rolling.gif" height="400px">
+            </section>
+            <section>
+                <section id="fragments">
+                    <h2>Works so far</h2>
+                    <p class="fragment">1. Make a Chinese version of FT's work</p>
+                    <p class="fragment">2. Produce weekly/ biweekly data stories.</p>
+                    <p class="fragment">3. Produce monthly mulitmedia pieces.</p>
+                </section>
+            </section>
+            <section>
+                <h4>1. Migrate FT's works to the FTC site.</h4>
+                <a href="http://www.ftchinese.com/interactive/5499" target="_blank">
+                    <img data-src="assets/climate-change.png" height="500px"></a>
+                <p><small>w/ interactive team: "What is at stake at the Paris climate change conference?"<br></small></p>
+            </section>
+            <section>
+                <a href="http://www.ftchinese.com/story/001067266" target="_blank">
+                    <img data-src="assets/debt.png" height="550px"></a>
+                <p><small>w/ graphics team: "China debt load reaches record high" </small></p>
+            </section>
+            <section>
+                <h4>2. FTC data stories</h4>
+                <p><small>weekly • biweekly</small></p>
+                <a href="http://www.ftchinese.com/story/001066470" target="_blank">
+                    <img data-src="assets/local-2sessions.jpg" height="350px"></a>
+                <p><small>"Changes of words-used in China's Two Sessions official documents"</small></p>
+            </section>
+            <section>
+                <a href="http://www.ftchinese.com/story/001065229" target="_blank">
+                    <img data-src="assets/local-pm2.5-2.jpg" width="600px"></a>
+                <p><small>Can "red alert" saves Beijing's air? <br>（PM 2.5 index in 12 hours since red-alert had issued)</small></p>
+            </section>
+            <section>
+                <a href="http://www.ftchinese.com/story/001065229" target="_blank">
+                    <img data-src="assets/local-pm2.5.jpg" width="350px"></a>
+                <p><small>Can 'red alert' save Beijing's air? <br>（PM 2.5 index comparison in the past four alerts.)</small></p>
+            </section>
+            <section>
+                <a href="http://www.ftchinese.com/story/001067226" target="_blank">
+                    <img data-src="assets/local-soil2.png" width="350px"></a>
+                <p><small>China budget deficit on soil remeditation.</small></p>
+            </section>
+            <section>
+                <section id="fragmentsMultimedia">
+                    <h4>3. Multimedia</h4>
+                    <p><small>monthly • seasonly</small></p>
+                    <a class="fragment" href="http://www.ftchinese.com/interactive/5775" target="_blank">
+                        <img data-src="assets/gdp.png" height="440px"></a>
+                    <p class="fragment"><small>Annual Report: How to read China's GDP figure?</small></p>
+                </section>
+            </section>
+            <section>
+                <a href="http://www.ftchinese.com/interactive/5986" target="_blank">
+                    <img data-src="assets/taiwan.png" height="600px"></a>
+                <p><small>Why Taiwan's ruling KMT fails?</small></p>
+            </section>
+            <section>
+                <section id="fragments2">
+                    <h3>Why do we choose the design/framework above?</h3>
+                    <li class="fragment">Blame the CMS!</li>
+                    <li class="fragment">A single, static html page is friendly to the site.</li>
+                    <li class="fragment">Consider the soical network enviroment.</li>
+                </section>
+            </section>
+            <section>
+                <section id="fragments3">
+                    <h3>What I've learned so far</h3>
+                    <li class="fragment">GFW is evil. <span style="color:red">!important</span> </li>
+                    <li class="fragment">DDJ in China is emerging. A lot of space to be explored.</li>
+                </section>
+            </section>
+            <section>
+                <h2>Thanks!</h2>
+            </section>
+        </div>
+    </div>
+    <script src="lib/js/head.min.js"></script>
+    <script src="js/reveal.js"></script>
+    <script>
+    Reveal.initialize({
+
+        dependencies: [{
+            src: 'plugin/markdown/marked.js'
+        }, {
+            src: 'plugin/markdown/markdown.js'
+        }, {
+            src: 'plugin/notes/notes.js',
+            async: true
+        }, {
+            src: 'plugin/highlight/highlight.js',
+            async: true,
+            callback: function() {
+                hljs.initHighlightingOnLoad();
+            }
+        }]
+    });
+    </script>
+</body>
 
-				<section>
-					<h3>A bit about me</h3>
-					<ul>
-					<li>Data editor at FTC based in Beijing. Making data-driven stories and reporting on Taiwan.</li>
-					<li>Teach digital media/ddj to graduate level students in Taiwan.</li>
-						
-					</ul>
-				</section>
-
-				<section>
-					<h4>What is data journo? </h4>
-					
-				</section>
-
-
-				<section>					
-					<p>why should we care abt telling stories through data?</p>
-	
-				</section>
-
-			    <section>					
-					<p>break the lie</p>
-	
-				</section>
-
-				 <section>					
-					<p>persuade</p>
-	
-				</section>
-
-				 <section>					
-					<img  data-src="assets/local-pm2.5-2.jpg" width="600px"></a>
-				</section>
-
-				<section>
-					
-					<p>Data journalism started way before you think it did. </p>
-	
-					</ul>
-				</section>
-
-				<section>
-				    <img data-src="assets/cholera.jpg" height="400px">
-					<ul>
-					
-					<li>50% are editorials, Op-Eds and columns run and produced by FTC editors.</li>	
-					</ul>
-				</section>
-
-				<section>
-					
-					<h4>What a data-driven story look like？</h4>
-					<p>hint: it's not all about math.</p>
-	
-					</ul>
-				</section>
-
-				<section>
-					
-					<ul>
-					<li>text</li>
-					<li>graphics</li>
-		            <li>news app</li>
-		            </ul>
-	
-					</ul>
-				</section>
-				
-				<section>
-					
-					<h3>break</h3>
-				</section>
-
-				<section>
-					
-					<h3>Speed data-ing </h3>
-				</section>
-
-
-				<section>
-					
-					<h3>where can I find the data?</h3>
-				</section>
-
-				<section>
-					<h3>Google</h3>
-				</section>
-
-				<section>
-					<section id="data">
-					<ul>
-					<li>Google</li>
-					<li>research org</li>
-					<li>gov't</li>
-					<li>collect it yourself</li>
-					</ul>
-					</section>
-				</section>
-
-
-				<section>
-					<h3>data formats</h3>
-					<p>machine readable</p>
-				</section>
-
-				<section>
-					<h3>PDF</h3>
-					<p><a href="http://tabula.technology/" target="_blank">covert PDF to csv</a></p>
-				</section>
-
-				<section>
-					<h3>XLS (excel) </h3>
-					<img  data-src="assets/xls.png" width="600px"></a>
-				</section>
-
-				<section>
-					<h3>CVS</h3>
-					<p>comma-seperated</p>
-					<img  data-src="assets/csv.png" width="600px"></a>
-				</section>
-
-					<section>
-					<h3>TSV</h3>
-					<p>tab-seperated</p>
-					<img  data-src="assets/tsv.png" width="600px"></a>
-				</section>
-
-
-				<section>
-					<h3>JSON</h3>
-					<img  data-src="assets/json.png" width="350px"></a>
-				</section>
-
-				<section>
-					<h3>JPEG/PNG</h3>
-					<p>	<img  data-src="assets/jpeg.png" width="400px"></a></p>
-					<p><a href="http://www.stats.gov.cn/tjsj/ndsj/2015/indexch.htm" target="_blank">中國統計年鑑</a></p>
-				</section>
-
-				<section>
-					<h3>dirty work</h3>
-					<p>google spreadsheet exercise</p>
-				</section>
-
-				<section>
-					<h3>＋－ｘ</h3>
-					<p></p>
-				</section>
-
-
-				<section>
-					<h3>=IMPORTHTML(URL,"table/list", 1)</h3>
-				</section>
-				
-				<section>
-					<h3>Pivot table</h3>
-				</section>
-
-				<section>
-					<h3>Make data beautiful</h3>
-					<a href="http://flowingdata.com/2010/07/22/7-basic-rules-for-making-charts-and-graphs">reference</a></p>
-				</section>
-
-				<section>
-					<h3>chart types</h3>
-					<a href="http://flowingdata.com/2010/07/22/7-basic-rules-for-making-charts-and-graphs">reference</a></p>
-				</section>
-
-
-
-
-				<section>
-					<h3>Basic Rules</h3>
-					<a href="http://flowingdata.com/2010/07/22/7-basic-rules-for-making-charts-and-graphs">reference</a></p>
-				</section>
-
-				<section>
-					<h3>alternative to pie chart</h3>
-				</section>
-
-				<section>
-					<h3>how to lie with data？</h3>
-				</section>
-
-
-				<section>
-
-					<img  data-src="assets/chart-suggestion.jpg" width="600px"></a>
-				</section>
-				
-				<section>
-				   <ul>
-				    <li><a href="https://quartz.github.io/Chartbuilder/" target="_blank">Chartbuilder by Quartz</a>
-				   </ul>
-				</section>
-				
-				<section>
-					<h3>Trends in this business</h3>
-				</section>
-
-				<section>
-					<ul>
-					<li>mobile</li>
-					<li>less interactive</li>
-					</ul>
-				</section>
-
-
-				<section>
-					<h3>Going further</h3>
-				</section>
-
-
-				<section>
-					<h3> FTC</h3>
-					<ul>
-					<li>50% on the site are translated from the FT.com.</li>
-					<li>50% are editorials, Op-Eds and columns run and produced by FTC editors.</li>	
-					</ul>
-				</section>
-
-
-				<section>
-					<h3>I expected my role at FTC is...</h3>
-						<img data-src="assets/panda-cool.gif" height="400px">
-				
-				</section>
-
-				<section>
-					<h3>...but it's more close to</h3>
-						<img data-src="assets/Panda-Rolling.gif" height="400px">
-				
-				</section>
-
-				<section>
-					<section id="fragments">
-						<h2>Works so far</h2>
-						<p class="fragment">1. Make a Chinese version of FT's work</p>
-						<p class="fragment">2. Produce weekly/ biweekly data stories.</p>
-						<p class="fragment">3. Produce monthly mulitmedia pieces.</p>
-
-					</section>
-				</section>
-				
-				<section>
-					<h4>1. Migrate FT's works to the FTC site.</h4>
-					<a href="http://www.ftchinese.com/interactive/5499" target="_blank">
-					<img  data-src="assets/climate-change.png" height="500px"></a>
-					 <p><small>w/ interactive team: "What is at stake at the Paris climate change conference?"<br></small></p>
-				
-				</section>
-
-				<section>
-				
-					<a href="http://www.ftchinese.com/story/001067266" target="_blank">
-					<img  data-src="assets/debt.png" height="550px"></a>
-					 <p><small>w/ graphics team: "China debt load reaches record high" </small></p>
-				
-				</section>
-
-				<section>
-					<h4>2. FTC data stories</h4>
-					<p><small>weekly • biweekly</small></p>
-					<a href="http://www.ftchinese.com/story/001066470" target="_blank">
-					 <img  data-src="assets/local-2sessions.jpg" height="350px"></a>
-
-					 <p><small>"Changes of words-used in China's Two Sessions official documents"</small></p>
-				
-				</section>
-
-				<section>
-					<a href="http://www.ftchinese.com/story/001065229" target="_blank">
- 					<img  data-src="assets/local-pm2.5-2.jpg" width="600px"></a>
- 					 <p><small>Can "red alert" saves Beijing's air? <br>（PM 2.5 index in 12 hours since red-alert had issued)</small></p>
-
-				
-				</section>
-
-
-				<section>
-					<a href="http://www.ftchinese.com/story/001065229" target="_blank">
- 					<img  data-src="assets/local-pm2.5.jpg" width="350px"></a>
- 					 <p><small>Can 'red alert' save Beijing's air? <br>（PM 2.5 index comparison in the past four alerts.)</small></p>
-				</section>
-
-					<section>
-					<a href="http://www.ftchinese.com/story/001067226" target="_blank">
- 					<img  data-src="assets/local-soil2.png" width="350px"></a>
- 					 <p><small>China budget deficit on soil remeditation.</small></p>
-				</section>
-
-
-				<section>
-					<section id="fragmentsMultimedia">
-					<h4>3. Multimedia</h4>
-					<p><small>monthly • seasonly</small></p>
-
-					<a class="fragment" href="http://www.ftchinese.com/interactive/5775" target="_blank">
-				    <img  data-src="assets/gdp.png" height="440px"></a>
-				    <p class="fragment"><small>Annual Report: How to read China's GDP figure?</small></p>
-					</section>
-				</section>
-
-				<section>
-					<a href="http://www.ftchinese.com/interactive/5986" target="_blank">
-					 <img  data-src="assets/taiwan.png" height="600px"></a>
-					  <p><small>Why Taiwan's ruling KMT fails?</small></p>
-				</section>
-
-
-				<section>
-					<section id="fragments2">
-					<h3>Why do we choose the design/framework above?</h3>
-				
-					<li class="fragment">Blame the CMS!</li>
-					<li class="fragment">A single, static html page is friendly to the site.</li>
-					<li class="fragment">Consider the soical network enviroment.</li>
-			
-					</section>
-				</section>
-
-				<section>
-					<section id="fragments3">
-						<h3>What I've learned so far</h3>
-					
-						<li class="fragment">GFW is evil. <span style="color:red">!important</span> </li>
-						<li class="fragment">DDJ in China is emerging. A lot of space to be explored.</li>
-					
-					</section>
-				</section>
-				
-			
-
-				<section>
-					<h2>Thanks!</h2>
-				</section>
-
-			
-			</div>
-		</div>
-
-		<script src="lib/js/head.min.js"></script>
-		<script src="js/reveal.js"></script>
-
-		<script>
-			
-			Reveal.initialize({
-				
-				dependencies: [
-					{ src: 'plugin/markdown/marked.js' },
-					{ src: 'plugin/markdown/markdown.js' },
-					{ src: 'plugin/notes/notes.js', async: true },
-					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } }
-				]
-			});
-		</script>
-	</body>
 </html>
