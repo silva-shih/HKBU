@@ -1,3 +1,10 @@
+--------------------------------
+git checkout gh-pages
+git merge origin/master
+git push origin gh-pages
+--------------------------------
+
+
 I want to try to give you a little bit of the big picture sense of journalism briefly and open up to any questions you folks have. 
 
 We're able to find stories that I don't think we are able to find a few years ago thanks to the technology
@@ -111,6 +118,8 @@ http://www.storytellingwithdata.com/blog/2014/06/alternatives-to-pies
 
 http://blogs.nature.com/methagora/2013/07/data-visualization-points-of-view.html
 
+Open journalism tools
+https://github.com/showcases/open-journalism
 
 
 

@@ -219,7 +219,7 @@ body {
   transition: color .15s ease; }
 
 .reveal a:hover {
-  color: #0000f1;
+  color: #333;
   text-shadow: none;
   border: none; }
 
@@ -247,7 +247,8 @@ body {
 
 .reveal a:hover img {
   background: rgba(255, 255, 255, 0.2);
-  border-color: #00008B;
+  border-color: #9999;
+  text-decoration: underline;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.55); }
 
 /*********************************************
