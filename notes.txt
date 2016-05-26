@@ -26,6 +26,10 @@ Section 2 Data 101
 - Data formats (png/jpeg/csv/tsv/pdf, will demonstrate how to scrap via google spreadsheet) #hands-on
 - basic operations using google spreadsheet (will leave pivot table to Jeff)
 
+extract data from PDF
+
+
+
 Section 3 Data visualization 101
 
 - making data beautiful (basic rules. will leave the advnaced data visualization skills to Jeff. ) #hands-on
