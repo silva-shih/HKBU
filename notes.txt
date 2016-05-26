@@ -4,6 +4,55 @@ git merge origin/master
 git push origin gh-pages
 --------------------------------
 
+[1]
+Thank you Rosyln for this opening. Thank you so much for having me today. 
+
+[2]
+I'm the data editor of FTChinese.com based in beijing. Produce data-driving stories and reporting on Taiwan as well. Previously, I was a business reporter in taiwan, has spent two years in New York. So if you have any questions of Taiwanese food and what's up in New York, shoot me a message. 
+
+So in the following two days, I want ot try to give you a little bit the big picure sense of data journalism briefly and open up to any questions you guys have. 
+
+
+[3]
+
+[4]So, what is data journalism? 
+
+[5]It started way before you think it did. 
+
+[6]This is map of 19 centry's london. Back then, the cholera epdemic broke up, at first, people assume the disease was spreaded by the air. But there's one man, John snow, not game of thron's jon snow, he knows nothing, he draw a map of ever  [弄清楚英文講法]
+＊找出傳染的英文
+＊欠data journalism的歷史
+＊2014 台灣千大企業
+
+[7]Or the other case is 
+
+[找出最早中國調查報導]
+
+[8]
+
+But have you ever wonderd why people care about it so much now? 
+let's look at a video first. 
+I'm not sure if any of you have wathced this before. It was produced by google news lab. Talking about telling stories with data. 
+
+[9]There are so mucn influential people in this industry in this video. 
+Propublica's Scot Klien
+
+What have you heard in this video? 
+
+[10]
+Technology advanced. 
+We can find stories that we are not be able to find a few years ago, thanks to the techonology.
+
+[11]
+Like this story, a blogger who wrote on North korea, using google earth's images to document the market scale changes in North Korea. 
+
+Google  [去查Google什麼時候開放earth免費]
+
+[12] data become the force behinde the stories. 
+
+[13]
+
+
 
 I want to try to give you a little bit of the big picture sense of journalism briefly and open up to any questions you folks have. 
 
