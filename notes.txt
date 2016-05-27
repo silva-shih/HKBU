@@ -4,54 +4,97 @@ git merge origin/master
 git push origin gh-pages
 --------------------------------
 
+interactivegraphics.ft-static.com/sites/2014/deficit-calculator/images/content/ft.svg 
+
+http://media0.giphy.com/media/UmV8I4KucdZJe/giphy.gif
+
 [1]
 Thank you Rosyln for this opening. Thank you so much for having me today. 
 
 [2]
-I'm the data editor of FTChinese.com based in beijing. Produce data-driving stories and reporting on Taiwan as well. Previously, I was a business reporter in taiwan, has spent two years in New York. So if you have any questions of Taiwanese food and what's up in New York, shoot me a message. 
+I'm the data editor of FTChinese.com based in beijing. Produce data-driving stories and reporting on Taiwan as well.
 
-So in the following two days, I want ot try to give you a little bit the big picure sense of data journalism briefly and open up to any questions you guys have. 
+Previously, I was a business reporter in taiwan, has spent two years in New York. So if you have any questions of Taiwanese food and what's up in New York, shoot me a message. 
+
+[3]
+
+So in the following two days, I want to try to give you a little bit     the big picure sense     of data journalism briefly
+
+hope this sounds interesting to you. 
 
 
 [3]
 
 [4]So, what is data journalism? 
 
+you've heared a lot of discussion recently 
+short anwer is..
+
+
+
 [5]It started way before you think it did. 
 
-[6]This is map of 19 centry's london. Back then, the cholera epdemic broke up, at first, people assume the disease was spreaded by the air. But there's one man, John snow, not game of thron's jon snow, he knows nothing, he draw a map of ever  [弄清楚英文講法]
-＊找出傳染的英文
-＊欠data journalism的歷史
-＊2014 台灣千大企業
 
-[7]Or the other case is 
 
-[找出最早中國調查報導]
+[6]This is map of 19 centry's london. Back then, the cholera outbrake in SOHO area, at first, people assume the disease was spreaded by the air. 
+
+But there's one man, John snow, not the game of thron's jon snow, he knows nothing, 
+
+he used a dot map to illustrate the cluster of cholera cases around the pump. 
+
+[7]
+Here's a more recent case in Asia, bubble map made of Taiwan's commonwealth magazine, showing the strong connections between techonology empires and Taiwan's companies. 
+
 
 [8]
 
 But have you ever wonderd why people care about it so much now? 
-let's look at a video first. 
-I'm not sure if any of you have wathced this before. It was produced by google news lab. Talking about telling stories with data. 
 
-[9]There are so mucn influential people in this industry in this video. 
+[9]
+
+The "why" shapes "how" you do things.
+
+
+let's look at a video first.
+
+I'm not sure if any of you have wathced this before. It was produced by google news lab. Talking about how to tell stories with data. 
+
+[9]There are so mucn influential people in this video. 
 Propublica's Scot Klien
 
-What have you heard in this video? 
+What have you seen in this video? 
+
+For me, I've seen two things:
 
 [10]
-Technology advanced. 
+First, Technology advanced. 
 We can find stories that we are not be able to find a few years ago, thanks to the techonology.
 
 [11]
-Like this story, a blogger who wrote on North korea, using google earth's images to document the market scale changes in North Korea. 
+Like this story, a blogger who wrote on North korea, using google earth's images to document the ecnomic activities changes in North Korea. 
 
-Google  [去查Google什麼時候開放earth免費]
+Google earth turns to be free was only happend in 2015. 
 
-[12] data become the force behinde the stories. 
+Before that, you have to pay a lot of money to buy those satelite image. 
 
-[13]
+But now techonology enable to let you find the story like this one. 
 
+[12] Secondly, what I've seen is, data become the force behinde the stories. 
+
+[13]here's the story we've worked on last year. 
+
+On November, Beiijng issued first-ever red-alert on air quality. 
+
+Schools were closed and outdoor construction work was suspended 
+
+realize the only way to decrease pm2.5's level is wind only. 
+
+[14]
+It seems like there are tones of cases today, Unfortunatelly, people misunderstand the beauty of data journalism in some ways. 
+
+[15]
+
+if I don't agree the both statment, so what a data story looks like. 
 
 
 I want to try to give you a little bit of the big picture sense of journalism briefly and open up to any questions you folks have. 
