@@ -3,6 +3,29 @@ git checkout gh-pages
 git merge origin/master
 git push origin gh-pages
 --------------------------------
+distorted data.
+
+3. going back to 
+
+
+This a graphic of the fall of U.S. mens’ income for the past forty years. 
+
+1. Not enough data point 
+
+2. distorted data.
+
+3. going back to 
+
+----------------------
+FT survey aggregates the British expat perspective from more than 300 readers across 53 countries
+
+----------------
+Africa's largest data journalism and civic technology initiative, operating CitizenLabs across the continent to help fast-track digital experimentation and transformation in newsrooms and other social justice organisations.
+----
+
+政治献金 Campaign finance: all funds raised in order to run elections 
+
+
 
 interactivegraphics.ft-static.com/sites/2014/deficit-calculator/images/content/ft.svg 
 
@@ -14,7 +37,9 @@ Thank you Rosyln for this opening. Thank you so much for having me today.
 [2]
 I'm the data editor of FTChinese.com based in beijing. Produce data-driving stories and reporting on Taiwan as well.
 
-Previously, I was a business reporter in taiwan, has spent two years in New York. So if you have any questions of Taiwanese food and what's up in New York, shoot me a message. 
+Previously, I was a business reporter in taiwan, 
+
+has spent two years in New York. So if you have any questions of Taiwanese food and what's up in New York, shoot me a message. 
 
 [3]
 
@@ -28,12 +53,14 @@ hope this sounds interesting to you.
 [4]So, what is data journalism? 
 
 you've heared a lot of discussion recently 
+
 short anwer is..
 
 
 
 [5]It started way before you think it did. 
 
+it's a buzzword recently. But is it that new? 
 
 
 [6]This is map of 19 centry's london. Back then, the cholera outbrake in SOHO area, at first, people assume the disease was spreaded by the air. 
@@ -42,11 +69,15 @@ But there's one man, John snow, not the game of thron's jon snow, he knows nothi
 
 he used a dot map to illustrate the cluster of cholera cases around the pump. 
 
-[7]
-Here's a more recent case in Asia, bubble map made of Taiwan's commonwealth magazine, showing the strong connections between techonology empires and Taiwan's companies. 
+
+[7] I will leave the history to Roslyn. 
+
+Since it becomes so popular right now, people start to look into the history, tring to find out the root of it and is there any thinking or methods we can adapt it today. 
 
 
-[8]
+[8] Simon Rogers, who build up data blog at the guardian in 2012, 2013. Make the public start to get intereting in the power of data narratives. 
+
+[9] And it becomes a global movement right now. There's a official data journalism award for it. 
 
 But have you ever wonderd why people care about it so much now? 
 
@@ -90,11 +121,14 @@ Schools were closed and outdoor construction work was suspended
 realize the only way to decrease pm2.5's level is wind only. 
 
 [14]
-It seems like there are tones of cases today, Unfortunatelly, people misunderstand the beauty of data journalism in some ways. 
+There are tones of powerful data journalism cases today, Unfortunatelly, people still misunderstand the beauty of data journalism in some ways. 
 
 [15]
 
 if I don't agree the both statment, so what a data story looks like. 
+
+
+[]
 
 
 I want to try to give you a little bit of the big picture sense of journalism briefly and open up to any questions you folks have. 
