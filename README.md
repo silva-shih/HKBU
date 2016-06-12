@@ -1,1 +1,1 @@
-2016 Apr / london
+Data journalism 101 at HKBU, 2016 May
